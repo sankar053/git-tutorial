@@ -1,3 +1,4 @@
 <?php 
- echo "I am siva";
+ print "Hi";
+ print "I am testing github";
 ?> 
